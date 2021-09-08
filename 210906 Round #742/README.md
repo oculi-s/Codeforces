@@ -1,8 +1,8 @@
-# #742 Div2
+# #742 Div2 1sol
 
-A : accepted
-B : X
-C : timeout
-D : X
-E : X
-F : X
+## A : accepted
+## B : X
+## C : timeout
+## D : X
+## E : X
+## F : X
