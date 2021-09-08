@@ -1,4 +1,4 @@
-# #113 Div2 3sol
+# [#113](https://codeforces.com/contest/1569) Div2 3sol
 
 > A : accepted
 

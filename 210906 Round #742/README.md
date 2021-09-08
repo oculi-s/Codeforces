@@ -1,4 +1,4 @@
-# #742 Div2 1sol
+# [#742](https://codeforces.com/contest/1567) Div2 1sol
 
 > A : accepted
 
